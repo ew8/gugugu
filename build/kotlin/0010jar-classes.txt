@@ -1,0 +1,1 @@
+D:\javaspace\MiraiTemplate-master\build\classes\java\main\com\example\plugin\Template.class
